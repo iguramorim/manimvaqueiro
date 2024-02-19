@@ -13,13 +13,14 @@ body{
      background-position: center center;
      background-size: cover;
      min-height: 100vh;
+     padding: 10px 0;
 }
 
 main{
      display: flex;
      flex-direction: column;
      max-width: 885px;
-     margin: 15px auto;
+     margin: 0 auto;
      padding: 1.5rem;
      background-color: #000000c4;
      backdrop-filter: blur(2px);
